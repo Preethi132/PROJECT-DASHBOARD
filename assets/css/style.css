@@ -1,0 +1,152 @@
+*{
+    box-sizing: border-box;
+    background-color: #282828;
+}
+.container1
+{
+    position: absolute;
+    background-color :#404040 ;
+    width: 300px;
+    height : 1000px;
+    border: 2px solid rgb(137, 137, 137);
+    padding: 4px;
+    align-items: flex-start;
+    margin: 10px 10px 10px 10px;
+}
+.container2
+{
+    position: absolute;
+    background-color: #404040;
+    width: 1100px;
+    height: 200px;
+    border: 2px solid rgb(137, 137, 137);
+    border-left: 0px;
+    padding: 50px;
+    margin: 10px 10px 10px 310px;
+    position:flex;
+}
+.container3
+{
+    position: absolute;
+    background-color: #707070;
+    width: 1100px;
+    height: 600px;
+    border: 2px solid whitesmoke;
+    padding: 50px;
+    margin: 210px 10px 10px 310px;
+    position:flex;
+}
+#id1
+{
+    position: absolute;
+    background-color: #404040;
+    width: 300px;
+    height: 200px;
+    border: 2px solid #404040;
+    border-left: 10px solid rgb(102, 25, 160);
+    border-radius: 10px;
+    padding: 4px;
+    margin: 250px 20px 20px 350px;
+    position:flex;
+}
+#id2
+{
+    position: absolute;
+    background-color: #404040;
+    width: 300px;
+    height: 200px;
+    border: 2px solid #404040;
+    border-left: 10px solid rgb(102, 25, 160);
+    border-radius: 10px;
+    padding: 4px;
+    margin: 500px 20px 20px 350px;
+    position:flex;
+}
+#id3
+{
+    position: absolute;
+    background-color: #404040;
+    width: 300px;
+    height: 200px;
+    border: 2px solid #404040;
+    border-left: 10px solid rgb(102, 25, 160);
+    border-radius: 10px;
+    padding: 4px;
+    margin: 750px 20px 20px 350px;
+    position:flex;
+    
+}
+#id4
+{
+    position: absolute;
+    background-color: #404040;
+    width: 300px;
+    height: 200px;
+    border: 2px solid #404040;
+    border-left: 10px solid rgb(102, 25, 160);
+    border-radius: 10px;
+    padding: 4px;
+    margin: 250px 20px 20px 700px;
+    position:flex;
+    
+}
+#id5
+{
+    position: absolute;
+    background-color: #404040;
+    width: 300px;
+    height: 200px;
+    border: 2px solid #404040;
+    border-left: 10px solid rgb(102, 25, 160);
+    border-radius: 10px;
+    padding: 4px;
+    margin: 500px 20px 20px 700px;
+    position:flex;
+}
+#id6
+{
+    position: absolute;
+    background-color: #404040;
+    width: 300px;
+    height: 200px;
+    border: 2px solid #404040;
+    border-left: 10px solid rgb(102, 25, 160);
+    border-radius: 10px;
+    padding: 4px;
+    margin: 750px 20px 20px 700px;
+    position:flex;
+}
+#id7
+{
+    position: absolute;
+    background-color: #404040;
+    width: 250px;
+    height: 300px;
+    border: 2px solid #404040;
+    border-left: 6px solid rgb(102, 25, 160);
+    border-radius: 10px;
+    padding: 4px;
+    margin: 250px 20px 20px 1030px;
+    position:flex;
+}
+#id8
+{
+    position: absolute;
+    background-color: #404040;
+    width: 250px;
+    height: 300px;
+    border: 2px solid #404040;
+    border-left: 6px solid rgb(102, 25, 160);
+    border-radius: 10px;
+    padding: 4px;
+    margin: 600px 20px 20px 1030px;
+    position:flex;
+}
+#icons
+{
+    display: flex;
+    margin-left:5px;
+    margin-right:auto;
+    align-items: center;
+    padding:10px 10px 10px 25px;
+}
